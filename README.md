@@ -8,6 +8,6 @@ grocery-crud version:1.5.2
 
 
 安装方法:
-1、导入数据库
+1、导入数据库[examples_database.sql 可选导入]
 2、配置数据库
 </pre>
